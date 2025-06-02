@@ -51,7 +51,7 @@ API_KEY=your_openweathermap_api_key
 
 ---
 
-**## 🚀How to Run**
+## **🚀How to Run**
 
 1. Clone the repository
 ```
@@ -82,20 +82,20 @@ Visit: http://localhost:8000
 
 ---
 
-**🌐Demo**
+## **🌐Demo**
 
 You can check out the live demo of this weather web app here:
 👉 [Click here to view the live demo](https://weatherwebapplication-0thb.onrender.com)
 
 ---
 
-**🙋‍♀️ About Me**
+## **🙋‍♀️ About Me**
 
 I'm Sruthi, a B.Tech student learning web development and building fun beginner projects like this! 😊
 Feel free to check out more at https://github.com/SruthiJayaram
 
 ---
 
-**📄 License**
+## **📄 License**
 
 This project is for educational purposes and does not include any production-level deployment or UI design.
